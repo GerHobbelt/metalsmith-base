@@ -47,7 +47,7 @@
     "webpack": "^1.12.1"
   },
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "bootstrap": "https://github.com/twbs/bootstrap/archive/v4.0.0-alpha.2.tar.gz"
   }
 }
